@@ -1,0 +1,68 @@
+body.amarillo {
+    background-color: orange;
+}
+h1.title {
+    color: white;
+    text-align: center;
+}
+
+section.class_1 {
+    background-color: white;
+}
+
+img.img_steve {
+    height: 225px;
+    width: 250px;
+    float: left;
+}
+hr.azul {
+    background-color: blue;
+    height: 15px;
+}
+p.blue {
+    color: blue;
+}
+
+section.class_2  {
+    background-color: rgb(181, 236, 240);
+}
+img.img_macintosh {
+    height: 175px;
+    width: 200px;
+    float: right;
+}
+hr.rojo {
+    background-color: red;
+    height: 15px;
+}
+p.red {
+    color:red
+}
+
+caption.caption {
+    text-align: center;
+    font-weight: bold;
+}
+table.table {
+background-color: white;
+}
+
+td.azul {
+    border: blue 1px solid;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+footer.footer {
+    background-color: rgb(224, 135, 102);
+}
+
+p.final {
+    text-align: center;
+}
+span.yellow {
+    background-color: yellow;
+}
+span.semana {
+    text-decoration: line-through;
+}
